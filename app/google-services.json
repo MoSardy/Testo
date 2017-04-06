@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "335363821389",
+    "firebase_url": "https://testo-fbdd7.firebaseio.com",
+    "project_id": "testo-fbdd7",
+    "storage_bucket": "testo-fbdd7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335363821389:android:e8139a3ed05d6299",
+        "android_client_info": {
+          "package_name": "dsardy.in.testo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335363821389-70glb2tb1adaupmng5jv5c9vh57eliof.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dsardy.in.testo",
+            "certificate_hash": "1a6ad4cc4156b072b5188d76981b8fe119e3fb69"
+          }
+        },
+        {
+          "client_id": "335363821389-ob55qj1gm7pmdik32b4glr053u8ud736.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQj4axd8F1eVcatXbNXJB3Ir9tLfdX6VU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335363821389-ob55qj1gm7pmdik32b4glr053u8ud736.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
